@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="0.0.1" installOnlyAtStartup="false" uuid="galbee-e4cb91">
+ <names>
+  <name lang="en_US">Guess the age</name>
+ </names>
+ <descriptions>
+  <description lang="en_US">This program is used to identify and guess the users age</description>
+ </descriptions>
+ <supportedLanguages>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="behavior_1">
+   <userRequestable/>
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
